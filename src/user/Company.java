@@ -12,9 +12,6 @@ import operator.IOController;
  * This class implements java.io.Serializable.
  * This class uses singleton design pattern.
  * This class import static com.operator.IOController class.
- * @author BlankSpace
- * @version 2.0
- * @time 2019/7/13
  */
 public class Company  implements Serializable {
     

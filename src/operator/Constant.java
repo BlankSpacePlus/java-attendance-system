@@ -2,9 +2,6 @@ package operator;
 
 /**
  * This class defines some important constants.
- * @author BlankSpace
- * @version 2.0
- * @time 2019/7/13
  */
 public class Constant {
     //All three files' split character

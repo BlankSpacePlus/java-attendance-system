@@ -7,9 +7,6 @@ import java.io.IOException;
  * This class implements java.io.Serializable.
  * This class extends Employee, it means that Manager is a special type of Employee.
  * A manager can do all things what a normal employee can do, and he can do more powerful things.
- * @author BlankSpace
- * @version 2.0
- * @time 2019/7/13
  */
 public class Manager extends Employee {
     //When superclass implements java.io.Serializable, 

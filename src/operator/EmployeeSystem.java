@@ -32,9 +32,6 @@ import user.*;
  * instead, if you aren't a manager and you are an employee, you must register as an employee.
  * In this class, most functions are defined as private because of encapsulation.
  * This class import static com.operator.IOController class.
- * @author BlankSpace
- * @version 2.0
- * @time 2019/7/13
  */
 public class EmployeeSystem {
     

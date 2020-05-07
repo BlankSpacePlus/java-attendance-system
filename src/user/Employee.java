@@ -7,9 +7,6 @@ import java.util.Calendar;
  * EmployeeSystem's employee class, which defines a type of employee.
  * This class implements java.io.Serializable.
  * This class override some functions.
- * @author BlankSpace
- * @version 2.0
- * @time 2019/7/13
  */
 public class Employee implements Serializable {
     

@@ -20,9 +20,6 @@ import user.*;
  * ID#Password
  * When changing a line in the file, it's very very very complex.
  * This class import static com.operator.IOController class.
- * @author BlankSpace
- * @version 2.0
- * @time 2019/7/13
  */
 public class IOController {
     
